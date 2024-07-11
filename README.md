@@ -1,7 +1,7 @@
 # 💫About Me :
- 👨‍🎓I'm currently  a student at University of Information Technology (UIT) in Ho Chi Minh.
-👀 i'm interested in Deep learning, Machine learning, NLP and Computer vision and i have some small projects in each of these fields.
-📖I am currently learning more about advanced knowledge in machine learning and deep learning, and I want to develop myself in this field.
++ 👨‍🎓I'm currently  a student at University of Information Technology (UIT) in Ho Chi Minh.
++ 👀 i'm interested in Deep learning, Machine learning, NLP and Computer vision and i have some small projects in each of these fields.
++ 📖I am currently learning more about advanced knowledge in machine learning and deep learning, and I want to develop myself in this field.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bao.trinhquoc.3154/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quoc-bao-trinh-2b5a162bb/) 
